@@ -1,3 +1,3 @@
 # MERN Stack
 
-Full stach web application using MERN stack 
+Full stack web application using MERN stack 
